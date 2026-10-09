@@ -22,4 +22,12 @@ This repository contains the materials for the **Ensembl Data Resources for Vari
 
 To explore Ensembl data resources and learn how they can support genetic variant interpretation.
 
-# Ensembl-Data-Resources-for-Variant-Interpretation
+## LICENCE 
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License.
+
+You are free to share and adapt the material for non-commercial purposes, provided that you give appropriate credit and distribute adaptations under the same license.
+
+Read the full license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+##  [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:zemzemfiras@gmail.com)
